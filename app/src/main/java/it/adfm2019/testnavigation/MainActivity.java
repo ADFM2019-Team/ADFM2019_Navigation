@@ -1,6 +1,7 @@
 package it.adfm2019.testnavigation;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
