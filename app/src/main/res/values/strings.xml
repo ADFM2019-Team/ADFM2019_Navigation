@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TestNavigation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="topStoriesHeaderTxt">These are the top stories:</string>
+    <string name="topStory1Txt">Top Story 1</string>
+    <string name="topStory2Txt">Top Story 2</string>
+    <string name="topStory3Txt">Top Story 3</string>
 </resources>
